@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: gaeni_tools
+Version: 0.0.1
+Summary: Gaeni Toolkit For Us
+Home-page: https://github.com/elsakti/gaeni_tools
+Author: ggusakti
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: crewai
+Requires-Dist: crewai-tools
